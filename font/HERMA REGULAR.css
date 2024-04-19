@@ -1,0 +1,11 @@
+/* Webfont: TKTherma-Regular */@font-face {
+    font-family: 'TKT-herma';
+    src: url('TKT-Herma regular.eot'); /* IE9 Compat Modes */
+    src: url('TKT-Herma regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('TKT-Herma regular.woff') format('woff'), /* Modern Browsers */
+         url('TKT-Herma regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
